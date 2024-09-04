@@ -17,6 +17,7 @@ git config --global init.defaultBranch main  : (main) 으로 뜨게 해줌
 4. git 상태확인
 git status : 현재 작업 중인 저장소의 상태를 확인
 
+[ 저장. push pull 할때 필요 ]
 5. git으로 관리하는 파일로 추가
 git add .
 
