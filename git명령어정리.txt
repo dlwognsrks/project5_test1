@@ -57,4 +57,4 @@ dfdfdfdfdfdfdfdfdfdfdfdfdfddfdfd
 
 4. 충돌 시, 깃허브에서 먼저 git pull로 받고 git push로 보내야한다..
 
-5. c췍췍
+ㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊㅊ
