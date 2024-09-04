@@ -91,6 +91,8 @@ pull
 - 브랜치 목록 확인
 git branch
 
+*있는게 현재 branch
+
 - 브랜치 생성
 git branch test01
 
@@ -115,3 +117,12 @@ git branch -d 브랜치명
 git branch 브랜치명 커밋번호
 
 git log --graph --oneline
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+팀으로 작업하기
+
+- Collaborators 등록해서 하는 법
+- pr 발행해서 하는 법
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
