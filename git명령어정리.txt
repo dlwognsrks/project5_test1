@@ -23,7 +23,7 @@ git add .
 6. commit (해당 시점을 저장)
 git commit -m "커밋 메세지"
 
-7. commit 이전에 계정정보 등록 (--global 옵션은 해당 컴퓨터 전체에 적용. 일단 global 빼라)
+7. commit 이전에 계정정보 등록 (--global 옵션은 해당 컴퓨터 전체에 적용. 일단 global 빼라) / git add . 전에 해야하는 것 같은데
 git config --global user.name "Your Name"
 git config --global user.email you@example.com
 
@@ -42,3 +42,10 @@ git으로 관리
 
 
 ----------------------------------------------------------------
+
+1. remote 정보확인
+    git remote
+    git remote -v
+    
+
+2. git hub ㅎㅎㅎ
