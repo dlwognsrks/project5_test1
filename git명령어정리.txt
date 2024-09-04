@@ -80,7 +80,7 @@ pull
 2. git hub ㅎㅎㅎ
 
 
-3. git push origin main
+3. git push origin main  (메인 코드를 깃허브로 보내는거 origin 이 깃허브를 뜻하는듯)
 
 
 4. 충돌 시, 깃허브에서 먼저 git pull로 받고 git push로 보내야한다..
@@ -101,7 +101,9 @@ git switch test01
 
 ------------------------------
 브랜치 병합
--main에서(main으로 코드 합류)
+
+-main에서 작업해야한다.(main으로 코드 합류)
+git switch main
 git merge 브랜치명
 git add .
 git commit -m "메시지"
